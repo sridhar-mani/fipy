@@ -2,7 +2,9 @@
 Overview
 ========
 
+Trivial change
 
+Another trivial change
 
 | |Tests|_ |Documentation|_ |nix|_
 | |GitHub|_ |PyPI|_  |CondaForge|_ |Binder|_
